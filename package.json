@@ -1,0 +1,9 @@
+{
+  "name": "GithubScore",
+  "version": "0.0.1",
+  "description": "Returns a score for a given username based on Github events data",
+  "dependencies": {
+    "jasmine-node": "latest",
+    "q": "latest"
+  }
+}
